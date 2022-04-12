@@ -12,7 +12,7 @@ entries:
     digest: 1f25162542b01c39cbe01c7ecbd3600882c6374f107ce12d6edfabaa6c2f2f79
     keywords:
     - magma
-    - or8cr
+    - orc8r
     - lte-orc8r
     name: lte-orc8r
     sources:
